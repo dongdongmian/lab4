@@ -2,13 +2,7 @@ package bean;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-
-/*
- * 用于jsp和数据库的链接
- */
-public class ConnBean {
-	private String driverName = "com.mysql.jdbc.Driver";
-	private String url = "jdbc:mysql://w.rdc.sae.sina.com.cn:3307/app_zyqbook";
+/w.rdc.sae.sina.com.cn:3307/app_zyqbook";
 	//private String user = "root";
 	//private String password = "LOVE<cj2014";
 	private String user = "1l3mnzwmw2";
