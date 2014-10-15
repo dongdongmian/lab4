@@ -1,10 +1,6 @@
 package bean;
 
-import conn.connDB;
-
-public class AddBean {
-	private long isbn;
-	private String title;
+;
 	private int authorid;
 	private String publisher;
 	private long publishdate;
